@@ -3,7 +3,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-https://github.com/Dev-Dorian/LandingPage/blob/main/LandingPage.jpg
+![Image](https://github.com/user-attachments/assets/10f24dbf-0bf3-4b4e-bb5e-344b13b56c97)
 
 Currently, two official plugins are available:
 
